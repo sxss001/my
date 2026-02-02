@@ -4,3 +4,5 @@
 02,http://127.0.0.1:9978/m3u8?url=https%3A%2F%2Fuk.bcgrll.cn%2Fvideos5%2Fcf7276e73bb05fedfe18be9262e3f6b2%2Fcf7276e73bb05fedfe18be9262e3f6b2.m3u8%3Fauth_key%3D1769880734-0-0-2cdfca1036c25d1e4a740491410ebe1b%26via_m%3Dukjav
 
 03,https://uk.eoelhc.cn/videos5/cf7276e73bb05fedfe18be9262e3f6b2/cf7276e73bb05fedfe18be9262e3f6b2.m3u8?auth_key=1769998642-0-0-917ed7327d392db1404b8c12276c52e8&via_m=ukjav
+
+04,https://uk.eoelhc.cn/videos5/364aa464038e432da2b8f0b04a067e20/364aa464038e432da2b8f0b04a067e20.m3u8?auth_key=1770007692-0-0-0fa2eb12b9661fcc0619a84727b66939&via_m=ukjav
