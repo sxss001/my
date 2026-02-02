@@ -39,3 +39,7 @@
 19,https://uk.eoelhc.cn/videos5/39e6263498c8e16307114b76c49ec4f7/39e6263498c8e16307114b76c49ec4f7.m3u8?auth_key=1770023826-0-0-9f2ae5ab6ddd2a1d46180870f4238d37&via_m=ukjav
 
 20,https://m3u8.yiwanian.com/static/mod/c0bcc7ae16c4266bb8157103752bbab6.m3u8?t=1770017315
+
+21,https://m3u8.yiwanian.com/static/mod/8fc09614864d3d5520b2fe3814792a55.m3u8?t=1770018667
+
+22,https://m3u8.yiwanian.com/static/mod/ad36704b22cdda012bd0132ecc289d38.m3u8?t=1770018799
