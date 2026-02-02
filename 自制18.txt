@@ -6,3 +6,5 @@
 03,https://uk.eoelhc.cn/videos5/cf7276e73bb05fedfe18be9262e3f6b2/cf7276e73bb05fedfe18be9262e3f6b2.m3u8?auth_key=1769998642-0-0-917ed7327d392db1404b8c12276c52e8&via_m=ukjav
 
 04,https://uk.eoelhc.cn/videos5/364aa464038e432da2b8f0b04a067e20/364aa464038e432da2b8f0b04a067e20.m3u8?auth_key=1770007692-0-0-0fa2eb12b9661fcc0619a84727b66939&via_m=ukjav
+
+05,https://uk.eoelhc.cn/videos5/342ea20983498ece36f21d62f0afda04/342ea20983498ece36f21d62f0afda04.m3u8?auth_key=1770008293-0-0-e01c8ca7fa3614a537eae8e957d72297&via_m=ukjav
