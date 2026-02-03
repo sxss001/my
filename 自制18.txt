@@ -52,3 +52,5 @@
 
 26,https://hls.pcihku.cn/videos4/0bdf3499f9e23875da51375e1a679901/0bdf3499f9e23875da51375e1a679901.m3u8?auth_key=1770038794-6980a60a4e15b-0-c572b140d8dac7d889cff7d81b82ed2e&v=3&time=0
 
+
+27,https://thm3u8.com/20250518/ywDyTfzR/index.m3u8
