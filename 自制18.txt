@@ -54,3 +54,5 @@
 
 
 27,https://thm3u8.com/20250518/ywDyTfzR/index.m3u8
+
+28,https://thm3u8.com/20250125/QbNUw6RX/index.m3u8
