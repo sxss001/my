@@ -1,4 +1,7 @@
 一_123,#genre#
+CCTV3,https://hlszymgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?msisdn=cdaaa38b-6a78-4814-a3d7-89cffc9957e6&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260204170324&Channel_ID=0131_10010001005&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=2409:8931:432:f2f5:e822:77ff:feeb:820e&SecurityKey=20260204170324&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_h5&bean=mgsph5&tid=h5&conFee=0&encrypt=16bf85ced6e738b692e9e168d7e08b83&sv=10012
+
+
 01,http://127.0.0.1:9978/m3u8?url=https%3A%2F%2Fuk.bcgrll.cn%2Fvideos5%2F650816d81909c6753b8c5eb786aca69c%2F650816d81909c6753b8c5eb786aca69c.m3u8%3Fauth_key%3D1769879829-0-0-d92cde6d68f5383093638a12d990a74a%26via_m%3Dukjav
 
 02,http://127.0.0.1:9978/m3u8?url=https%3A%2F%2Fuk.bcgrll.cn%2Fvideos5%2Fcf7276e73bb05fedfe18be9262e3f6b2%2Fcf7276e73bb05fedfe18be9262e3f6b2.m3u8%3Fauth_key%3D1769880734-0-0-2cdfca1036c25d1e4a740491410ebe1b%26via_m%3Dukjav
@@ -56,3 +59,4 @@
 27,https://thm3u8.com/20250518/ywDyTfzR/index.m3u8
 
 28,https://thm3u8.com/20250125/QbNUw6RX/index.m3u8
+
