@@ -1,4 +1,4 @@
-一_123,#genre#
+一,#genre#
 CCTV3,https://hlszymgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?msisdn=cdaaa38b-6a78-4814-a3d7-89cffc9957e6&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260204170324&Channel_ID=0131_10010001005&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=2409:8931:432:f2f5:e822:77ff:feeb:820e&SecurityKey=20260204170324&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_h5&bean=mgsph5&tid=h5&conFee=0&encrypt=16bf85ced6e738b692e9e168d7e08b83&sv=10012
 
 
@@ -60,3 +60,4 @@ CCTV3,https://hlszymgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8
 
 28,https://thm3u8.com/20250125/QbNUw6RX/index.m3u8
 
+29,https://v5.slv525627.com/20250703/GaZXJntj/2000kb/hls/index.m3u8
