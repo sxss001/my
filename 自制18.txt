@@ -63,3 +63,5 @@ CCTV3,https://hlszymgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8
 29,https://v5.slv525627.com/20250703/GaZXJntj/2000kb/hls/index.m3u8
 
 30,https://video.twimg.com/amplify_video/2015260504621776897/vid/avc1/1920x1080/uRhvybCKNDBxlKst.mp4?tag=21
+
+31,https://video.twimg.com/amplify_video/2024100850332037120/vid/avc1/720x1280/YUkNe4T2bdZ4CR2t.mp4?tag=21
