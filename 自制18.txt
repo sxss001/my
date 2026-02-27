@@ -61,3 +61,5 @@ CCTV3,https://hlszymgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8
 28,https://thm3u8.com/20250125/QbNUw6RX/index.m3u8
 
 29,https://v5.slv525627.com/20250703/GaZXJntj/2000kb/hls/index.m3u8
+
+30,东方卫视4K,https://video.twimg.com/amplify_video/2015260504621776897/vid/avc1/1920x1080/uRhvybCKNDBxlKst.mp4?tag=21
