@@ -82,3 +82,9 @@ CCTV3,https://hlszymgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8
 38,https://video.twimg.com/amplify_video/2023331103562727424/vid/avc1/720x1280/d61ZaZ0qdn-AnoDt.mp4?tag=21
 
 39,https://video.twimg.com/amplify_video/2019605118296219648/vid/avc1/540x720/VMnNyS8zH2b3xKQf.mp4?tag=21
+
+40,https://video.twimg.com/amplify_video/2020147881169285120/vid/avc1/1920x1080/EiVZA-5n_ywWBXxJ.mp4?tag=21
+
+41,https://video.twimg.com/amplify_video/2013166132404854784/vid/avc1/720x1280/oQy80GdLI8hN936_.mp4?tag=21
+
+42,https://video.twimg.com/amplify_video/2001192443325333504/vid/avc1/1280x720/a-kyzUM1CEWSr2Ve.mp4?tag=21
