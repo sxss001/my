@@ -96,3 +96,5 @@ CCTV3,https://hlszymgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8
 45,https://video.twimg.com/amplify_video/1955385046216433664/vid/avc1/1920x1080/sjcIKQm7vx29M4QK.mp4?tag=21
 
 46,https://bf4.qrtuv.com/202510/18/TbtdSSZwwD2/video/2000k_1080/hls/index.m3u8
+
+47七夕,https://bf3.qrtuv.com/smv1/202501/01/FXQZtFh59D1/video/2000k_1080/hls/index.m3u8
